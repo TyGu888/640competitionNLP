@@ -17,13 +17,15 @@ https://www.kaggle.com/datasets/momenta/v3base4
 Deberta3 base: https://huggingface.co/microsoft/deberta-v3-base
 
 ## file layout
-├── model
-├── ensemble inference
-├── debertav3bsae1                          #trained model 
-├── debertav3bsae2
-├── debertav3bsae3
-├── debertav3bsae4
-└── input
-    ├── debertav3-base                      #from hugging face 
-    ├── iterativestratification
-    ├── iterativestratification
+
+    .
+    ├── model
+    ├── ensemble inference
+    ├── debertav3bsae1                          #trained model 
+    ├── debertav3bsae2
+    ├── debertav3bsae3
+    ├── debertav3bsae4
+    └── input
+        ├── debertav3-base                      #from hugging face 
+        ├── iterativestratification
+        ├── iterativestratification
